@@ -22,18 +22,18 @@ A desktop phonebook application to manage contacts
 - Search for contact by first name 🔍
 - View all contacts under a group
 ## Screenshots
-Login window
-![image](https://github.com/reshmaharidhas/Phonebook/assets/37250413/9683a671-263f-4e9b-b3bb-29f1c47d10ae)
-Home screen
+Login window<br>
+![image](https://github.com/reshmaharidhas/Phonebook/assets/37250413/9683a671-263f-4e9b-b3bb-29f1c47d10ae) <br>
+Home screen<br>
 ![home screen](https://github.com/reshmaharidhas/Phonebook/assets/37250413/8c8c79c2-13c9-48a5-aba2-156b454354b6)
-![Contacts under Work group](https://github.com/reshmaharidhas/Phonebook/assets/37250413/8e14e6a7-2ee0-40af-b666-08728ea8993f)
-Searching contacts using search bar
-![Searching contacts](https://github.com/reshmaharidhas/Phonebook/assets/37250413/8713b2cc-f4e9-4fb5-87ee-c41407de9866)
-Open contact card
-![view contacts](https://github.com/reshmaharidhas/Phonebook/assets/37250413/7d284027-16df-47b6-ace8-ef3a53a93400)
-Add new contact to phonebook
-![add new contact](https://github.com/reshmaharidhas/Phonebook/assets/37250413/2442f77d-bac8-4d4f-a749-63981104ffb4)
-Edit saved contact
+![Contacts under Work group](https://github.com/reshmaharidhas/Phonebook/assets/37250413/8e14e6a7-2ee0-40af-b666-08728ea8993f) <br>
+Searching contacts using search bar<br>
+![Searching contacts](https://github.com/reshmaharidhas/Phonebook/assets/37250413/8713b2cc-f4e9-4fb5-87ee-c41407de9866) <br>
+Open contact card<br>
+![view contacts](https://github.com/reshmaharidhas/Phonebook/assets/37250413/7d284027-16df-47b6-ace8-ef3a53a93400) <br>
+Add new contact to phonebook<br>
+![add new contact](https://github.com/reshmaharidhas/Phonebook/assets/37250413/2442f77d-bac8-4d4f-a749-63981104ffb4) <br>
+Edit saved contact<br>
 ![edit contact](https://github.com/reshmaharidhas/Phonebook/assets/37250413/c5797245-57e1-435a-9e00-3bb3ba1f307d)
 
 ## Environment Variables to set 
