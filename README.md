@@ -13,14 +13,14 @@ A desktop phonebook application to manage contacts
 - <a href="https://docs.python.org/3/library/tk.html">Tkinter</a>
 - <a href="https://www.mysql.com/">MySQL (Database)</a>
 - <a href="https://dev.mysql.com/doc/connector-python/en/">MySQL Connector Python</a>
-## Features
+## Features💻
 - Add new contact
-- View saved contacts
-- Edit saved contact
-- Delete saved contact
-- Categorize every contact to a group
-- Search for contact by first name
-- View all contacts under a group
+- View saved contacts 📖
+- Edit saved contact ✍️
+- Delete saved contact ❌
+- Categorize every contact to a group 🗂️
+- Search for contact by first name 🔍
+- View all contacts under a group 🤳
 ## Environment Variables to set 
 - MYSQL_USER
 - MYSQL_PASSWORD
